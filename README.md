@@ -1,4 +1,4 @@
-# FriendFinder App
+# Friend Finder App
 
 ## Description
 
